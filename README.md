@@ -74,5 +74,11 @@ Node<T>? removeAllOccurrences<T>(Node<T>? head, T element) {
 }
 ```
 
+## Usage
+
+1. Clone the repository: `git clone https://github.com/AnmarSammour/Data-Structures-challenges_Dart`
+2. Open the Dart files in your preferred Dart environment.
+3. Run the Dart files to see the output of the challenges.
+
 Feel free to clone this repository and work on the challenges independently. Happy coding!
 ```
